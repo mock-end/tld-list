@@ -7,10 +7,7 @@
 
 A list of all valid top-level domains is maintained by the [IANA](http://www.iana.org/) and is updated from time to time.
 
-- To view the list, click [here](http://data.iana.org/TLD/tlds-alpha-by-domain.txt).
-- To download the list via ftp, click [here](ftp://data.iana.org/TLD/tlds-alpha-by-domain.txt).
-
-
+Click [here](http://data.iana.org/TLD/tlds-alpha-by-domain.txt) to view the list.
 
 
 ## Install
