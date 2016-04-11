@@ -1,0 +1,24 @@
+{
+  "name": "tld-list",
+  "version": "0.0.0",
+  "description": "A list of all valid top-level domains and is updated from time to time.",
+  "main": "index.js",
+  "scripts": {
+    "update": "npm i punycode superagent && node ./scripts/update.js",
+    "pretest": "npm run update",
+    "test": "node ./scripts/test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bubkoo/tld-list.git"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "bubkoo",
+    "email": "bubkoo.wy@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bubkoo/tld-list/issues"
+  },
+  "homepage": "https://github.com/bubkoo/tld-list#readme"
+}
