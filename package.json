@@ -10,6 +10,14 @@
     "prepublish": "npm test",
     "postinstall": "npm test"
   },
+  "keywords": [
+    "tld",
+    "domain",
+    "list",
+    "top",
+    "most",
+    "world"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bubkoo/tld-list.git"

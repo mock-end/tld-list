@@ -23,3 +23,8 @@ var tlds = require('tld-list');
 
 console.log(tlds);
 ```
+
+## Related
+
+- [random-tld](https://github.com/bubkoo/random-tld) - Return a random tld.
+- [pick-some](https://github.com/bubkoo/pick-some) - Randomly sampling some item(s) from an array(array like object).
