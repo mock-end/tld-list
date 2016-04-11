@@ -1,12 +1,14 @@
 {
   "name": "tld-list",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A list of all valid top-level domains and is updated from time to time.",
   "main": "index.js",
   "scripts": {
     "update": "npm i punycode superagent && node ./scripts/update.js",
     "pretest": "npm run update",
-    "test": "node ./scripts/test"
+    "test": "node ./scripts/test",
+    "prepublish": "npm test",
+    "postinstall": "npm test"
   },
   "repository": {
     "type": "git",
