@@ -1,6 +1,6 @@
 {
   "name": "tld-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A list of all valid top-level domains and is updated from time to time.",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/tld-list.git"
+    "url": "git+https://github.com/mock-end/tld-list.git"
   },
   "license": "MIT",
   "author": {
@@ -28,7 +28,7 @@
     "email": "bubkoo.wy@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/tld-list/issues"
+    "url": "https://github.com/mock-end/tld-list/issues"
   },
-  "homepage": "https://github.com/bubkoo/tld-list#readme"
+  "homepage": "https://github.com/mock-end/tld-list#readme"
 }
