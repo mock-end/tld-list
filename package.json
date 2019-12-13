@@ -7,8 +7,7 @@
     "update": "npm i punycode superagent && node ./scripts/update.js",
     "pretest": "npm run update",
     "test": "node ./scripts/test",
-    "prepublish": "npm test",
-    "postinstall": "npm test"
+    "prepublish": "npm test"
   },
   "keywords": [
     "tld",
